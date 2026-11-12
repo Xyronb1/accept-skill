@@ -184,7 +184,8 @@ Davranış, [`tests/test-scenarios.md`](tests/test-scenarios.md) içindeki on ik
 <td align="center" width="33%">
 <img src="https://github.com/mirac221.png" width="80" height="80" alt="mirac221"><br>
 <a href="https://github.com/mirac221"><b>mirac221</b></a><br>
-<sub>Ana geliştirici</sub>
+<sub>Ana geliştirici</sub><br>
+<sub>Test ve kod desteği</sub>
 </td>
 </tr>
 </table>

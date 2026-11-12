@@ -184,7 +184,8 @@ Behavior is checked by hand with the twelve scenarios in [`tests/test-scenarios.
 <td align="center" width="33%">
 <img src="https://github.com/mirac221.png" width="80" height="80" alt="mirac221"><br>
 <a href="https://github.com/mirac221"><b>mirac221</b></a><br>
-<sub>Core developer</sub>
+<sub>Core developer</sub><br>
+<sub>Testing and code help</sub>
 </td>
 </tr>
 </table>
