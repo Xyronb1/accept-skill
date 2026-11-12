@@ -8,6 +8,7 @@
 ![Works in ChatGPT and Claude chat](https://img.shields.io/badge/also%20works%20in-ChatGPT%20%7C%20Claude%20chat-2dd4bf?style=flat-square)
 ![Languages](https://img.shields.io/badge/languages-English%20%7C%20T%C3%BCrk%C3%A7e-fbbf24?style=flat-square)
 ![Platforms](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-64748b?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/license-MIT-4ade80?style=flat-square)](LICENSE)
 
 </div>
 
@@ -36,6 +37,7 @@ It is a **command-only** skill: it runs when you type `/accept` and never activa
 - [Testing](#testing)
 - [What it is not](#what-it-is-not)
 - [Developers](#developers)
+- [License](#license)
 
 ## Why
 
@@ -170,3 +172,7 @@ Behavior is checked by hand with the twelve scenarios in [`tests/test-scenarios.
 | <img src="https://github.com/mirac221.png" width="20" alt=""> | **[mirac221](https://github.com/mirac221)** | Contributor |
 
 Issues and pull requests are welcome. If you add a language, add its labels to [`templates/clarified-prompt.md`](skill/accept/templates/clarified-prompt.md) and a scenario to [`tests/test-scenarios.md`](tests/test-scenarios.md).
+
+## License
+
+Released under the [MIT License](LICENSE). You are free to use, change and share it, including commercially; just keep the license and copyright notice.

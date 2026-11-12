@@ -8,6 +8,7 @@
 ![ChatGPT ve Claude sohbetinde de çalışır](https://img.shields.io/badge/ayr%C4%B1ca-ChatGPT%20%7C%20Claude%20sohbet-2dd4bf?style=flat-square)
 ![Diller](https://img.shields.io/badge/diller-English%20%7C%20T%C3%BCrk%C3%A7e-fbbf24?style=flat-square)
 ![Platformlar](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-64748b?style=flat-square)
+[![Lisans: MIT](https://img.shields.io/badge/lisans-MIT-4ade80?style=flat-square)](LICENSE)
 
 </div>
 
@@ -36,6 +37,7 @@
 - [Test](#test)
 - [Ne değildir](#ne-değildir)
 - [Geliştiriciler](#geliştiriciler)
+- [Lisans](#lisans)
 
 ## Neden
 
@@ -170,3 +172,7 @@ Davranış, [`tests/test-scenarios.md`](tests/test-scenarios.md) içindeki on ik
 | <img src="https://github.com/mirac221.png" width="20" alt=""> | **[mirac221](https://github.com/mirac221)** | Katkıda bulunan |
 
 Issue ve pull request'lere açığız. Yeni bir dil eklersen etiketlerini [`templates/clarified-prompt.md`](skill/accept/templates/clarified-prompt.md)'ye, bir senaryoyu da [`tests/test-scenarios.md`](tests/test-scenarios.md)'ye ekle.
+
+## Lisans
+
+[MIT Lisansı](LICENSE) ile yayınlanmıştır. Ticari kullanım dahil serbestçe kullanabilir, değiştirebilir ve paylaşabilirsin; tek şart lisans ve telif notunu korumak.
