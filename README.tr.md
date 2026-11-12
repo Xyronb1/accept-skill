@@ -165,11 +165,29 @@ Davranış, [`tests/test-scenarios.md`](tests/test-scenarios.md) içindeki on ik
 
 ## Geliştiriciler
 
-| | İsim | Rol |
-|---|---|---|
-| <img src="https://github.com/Xyronb1.png" width="20" alt=""> | **[Xyron](https://github.com/Xyronb1)** | Yaratıcı ve geliştirici: fikir, tasarım, test |
-| 🤖 | **Claude (XYROX)** — [Anthropic](https://www.anthropic.com)'in Claude Opus 5.5 modeli | Yapay zeka ortak geliştirici: skill metni, İngilizce destek, dokümanlar, görseller |
-| <img src="https://github.com/mirac221.png" width="20" alt=""> | **[mirac221](https://github.com/mirac221)** | Katkıda bulunan |
+`/accept`'i üç kişilik ana ekip geliştiriyor:
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://github.com/Xyronb1.png" width="80" height="80" alt="Xyron"><br>
+<a href="https://github.com/Xyronb1"><b>Xyron</b></a><br>
+<sub>Ana geliştirici</sub><br>
+<sub>Yaratıcı · fikir, tasarım, test</sub>
+</td>
+<td align="center" width="33%">
+<img src="assets/claude-avatar.svg" width="80" height="80" alt="Claude (XYROX)"><br>
+<a href="https://www.anthropic.com"><b>Claude (XYROX)</b></a><br>
+<sub>Ana geliştirici</sub><br>
+<sub>Yapay zeka geliştirici · Anthropic'in Claude Opus 5.5 modeli</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://github.com/mirac221.png" width="80" height="80" alt="mirac221"><br>
+<a href="https://github.com/mirac221"><b>mirac221</b></a><br>
+<sub>Ana geliştirici</sub>
+</td>
+</tr>
+</table>
 
 Issue ve pull request'lere açığız. Yeni bir dil eklersen etiketlerini [`templates/clarified-prompt.md`](skill/accept/templates/clarified-prompt.md)'ye, bir senaryoyu da [`tests/test-scenarios.md`](tests/test-scenarios.md)'ye ekle.
 

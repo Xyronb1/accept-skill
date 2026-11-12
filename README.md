@@ -165,11 +165,29 @@ Behavior is checked by hand with the twelve scenarios in [`tests/test-scenarios.
 
 ## Developers
 
-| | Name | Role |
-|---|---|---|
-| <img src="https://github.com/Xyronb1.png" width="20" alt=""> | **[Xyron](https://github.com/Xyronb1)** | Creator and maintainer: idea, design, testing |
-| 🤖 | **Claude (XYROX)** — Claude Opus 5.5 by [Anthropic](https://www.anthropic.com) | AI co-developer: skill text, English support, docs, illustrations |
-| <img src="https://github.com/mirac221.png" width="20" alt=""> | **[mirac221](https://github.com/mirac221)** | Contributor |
+`/accept` is built by a core team of three:
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://github.com/Xyronb1.png" width="80" height="80" alt="Xyron"><br>
+<a href="https://github.com/Xyronb1"><b>Xyron</b></a><br>
+<sub>Core developer</sub><br>
+<sub>Creator · idea, design, testing</sub>
+</td>
+<td align="center" width="33%">
+<img src="assets/claude-avatar.svg" width="80" height="80" alt="Claude (XYROX)"><br>
+<a href="https://www.anthropic.com"><b>Claude (XYROX)</b></a><br>
+<sub>Core developer</sub><br>
+<sub>AI developer · Claude Opus 5.5 by Anthropic</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://github.com/mirac221.png" width="80" height="80" alt="mirac221"><br>
+<a href="https://github.com/mirac221"><b>mirac221</b></a><br>
+<sub>Core developer</sub>
+</td>
+</tr>
+</table>
 
 Issues and pull requests are welcome. If you add a language, add its labels to [`templates/clarified-prompt.md`](skill/accept/templates/clarified-prompt.md) and a scenario to [`tests/test-scenarios.md`](tests/test-scenarios.md).
 
