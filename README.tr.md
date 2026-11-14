@@ -167,21 +167,21 @@ Davranış, [`tests/test-scenarios.md`](tests/test-scenarios.md) içindeki on ik
 
 `/accept`'i üç kişilik ana ekip geliştiriyor:
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <img src="https://github.com/Xyronb1.png" width="80" height="80" alt="Xyron"><br>
 <a href="https://github.com/Xyronb1"><b>Xyron</b></a><br>
 <sub>Ana geliştirici</sub><br>
 <sub>Yaratıcı · fikir, tasarım, test</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <img src="assets/claude-logo.svg" width="80" height="80" alt="Claude"><br>
 <a href="https://www.anthropic.com"><b>Claude</b></a><br>
 <sub>Ana geliştirici</sub><br>
 <sub>Yapay zeka geliştirici · Anthropic</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <img src="https://github.com/mirac221.png" width="80" height="80" alt="mirac221"><br>
 <a href="https://github.com/mirac221"><b>mirac221</b></a><br>
 <sub>Ana geliştirici</sub><br>
