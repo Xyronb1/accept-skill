@@ -176,10 +176,10 @@ Davranış, [`tests/test-scenarios.md`](tests/test-scenarios.md) içindeki on ik
 <sub>Yaratıcı · fikir, tasarım, test</sub>
 </td>
 <td align="center" width="33%">
-<img src="assets/claude-avatar.svg" width="80" height="80" alt="Claude"><br>
+<img src="assets/claude-logo.svg" width="80" height="80" alt="Claude"><br>
 <a href="https://www.anthropic.com"><b>Claude</b></a><br>
 <sub>Ana geliştirici</sub><br>
-<sub>Yapay zeka geliştirici · Anthropic'in Claude Opus 5.5 modeli</sub>
+<sub>Yapay zeka geliştirici · Anthropic</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://github.com/mirac221.png" width="80" height="80" alt="mirac221"><br>
@@ -189,6 +189,8 @@ Davranış, [`tests/test-scenarios.md`](tests/test-scenarios.md) içindeki on ik
 </td>
 </tr>
 </table>
+
+<sub>Claude ve Claude logosu Anthropic'in ticari markalarıdır.</sub>
 
 Issue ve pull request'lere açığız. Yeni bir dil eklersen etiketlerini [`templates/clarified-prompt.md`](skill/accept/templates/clarified-prompt.md)'ye, bir senaryoyu da [`tests/test-scenarios.md`](tests/test-scenarios.md)'ye ekle.
 

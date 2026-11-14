@@ -176,10 +176,10 @@ Behavior is checked by hand with the twelve scenarios in [`tests/test-scenarios.
 <sub>Creator · idea, design, testing</sub>
 </td>
 <td align="center" width="33%">
-<img src="assets/claude-avatar.svg" width="80" height="80" alt="Claude"><br>
+<img src="assets/claude-logo.svg" width="80" height="80" alt="Claude"><br>
 <a href="https://www.anthropic.com"><b>Claude</b></a><br>
 <sub>Core developer</sub><br>
-<sub>AI developer · Claude Opus 5.5 by Anthropic</sub>
+<sub>AI developer · Anthropic</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://github.com/mirac221.png" width="80" height="80" alt="mirac221"><br>
@@ -189,6 +189,8 @@ Behavior is checked by hand with the twelve scenarios in [`tests/test-scenarios.
 </td>
 </tr>
 </table>
+
+<sub>Claude and the Claude logo are trademarks of Anthropic.</sub>
 
 Issues and pull requests are welcome. If you add a language, add its labels to [`templates/clarified-prompt.md`](skill/accept/templates/clarified-prompt.md) and a scenario to [`tests/test-scenarios.md`](tests/test-scenarios.md).
 
