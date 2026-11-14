@@ -176,8 +176,8 @@ Davranış, [`tests/test-scenarios.md`](tests/test-scenarios.md) içindeki on ik
 <sub>Yaratıcı · fikir, tasarım, test</sub>
 </td>
 <td align="center" width="33%">
-<img src="assets/claude-avatar.svg" width="80" height="80" alt="Claude (XYROX)"><br>
-<a href="https://www.anthropic.com"><b>Claude (XYROX)</b></a><br>
+<img src="assets/claude-avatar.svg" width="80" height="80" alt="Claude"><br>
+<a href="https://www.anthropic.com"><b>Claude</b></a><br>
 <sub>Ana geliştirici</sub><br>
 <sub>Yapay zeka geliştirici · Anthropic'in Claude Opus 5.5 modeli</sub>
 </td>

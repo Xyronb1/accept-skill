@@ -176,8 +176,8 @@ Behavior is checked by hand with the twelve scenarios in [`tests/test-scenarios.
 <sub>Creator · idea, design, testing</sub>
 </td>
 <td align="center" width="33%">
-<img src="assets/claude-avatar.svg" width="80" height="80" alt="Claude (XYROX)"><br>
-<a href="https://www.anthropic.com"><b>Claude (XYROX)</b></a><br>
+<img src="assets/claude-avatar.svg" width="80" height="80" alt="Claude"><br>
+<a href="https://www.anthropic.com"><b>Claude</b></a><br>
 <sub>Core developer</sub><br>
 <sub>AI developer · Claude Opus 5.5 by Anthropic</sub>
 </td>
